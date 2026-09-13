@@ -48,4 +48,4 @@ Once your environment is configured and dependencies are installed, run the Flas
 ```bash
 python main.py
 ```
-Then, open your web browser and navigate to: `http://127.0.0.1:8000`
+Then, open your web browser and navigate to: `http://127.0.0.1:5002`
