@@ -49,6 +49,3 @@ Once your environment is configured and dependencies are installed, run the Flas
 python main.py
 ```
 Then, open your web browser and navigate to: `http://127.0.0.1:8000`
-
-## Design Philosophy
-This tool was built by applying rigorous data science pipeline principles to standard security tooling. Drawing from my 2.5+ years of professional experience developing robust machine learning models and complex geospatial architectures, I designed this generator to treat password security as an information theory problem. The decoupled architecture mirrors the professional data serving practices utilized in advanced analytical workflows and platforms like Kaggle, securely deploying statistical scoring metrics via a RESTful API.
